@@ -1,0 +1,52 @@
+@use "../../assets/variables/colors" as *;
+
+
+
+  .tournament_card {
+    
+    max-width: 350px;
+    height: 340px;
+
+    background-color: #232f6567 !important;
+    border-radius: 10px;
+    border: 0.1px solid rgba(255, 255, 255, 0.664);
+    transition: 0.5s;
+    .image {
+      width: 100%;
+      
+      img {
+        width: 100%;
+        object-fit: cover;
+        border-radius: 10px;
+        height: 200px;
+      }
+    }
+    .down_data {
+      padding: 0 10px;
+      .title {
+        font-size: 16px;
+        font-weight: 700;
+        color: white;
+        line-height: 1.49em;
+        margin-bottom: 20px;
+
+        margin-bottom: 0;
+      }
+      .date_time {
+        display: flex;
+        font-size: 16px;
+        line-height: 1.49em;
+        font-weight: lighter  ;
+        margin-top: 0px !important;
+        color: white;
+        h6:nth-child(1){
+          margin-right: 40px;
+        }
+      }
+    }
+    &:hover{
+      box-shadow: 1px 1px 31px 0px rgba(0, 84, 209, 0.75);
+      -webkit-box-shadow: 1px 1px 31px 0px rgba(0, 84, 209, 0.75);
+      -moz-box-shadow: 1px 1px 31px 0px rgba(0, 84, 209, 0.75);
+    }
+  }

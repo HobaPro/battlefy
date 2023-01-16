@@ -1,0 +1,224 @@
+{
+  "games": [
+    {
+      "name": "League of Legends",
+      "img": "https://i.imgur.com/pOIIq56.jpeg",
+      "bg_img": "https://images7.alphacoders.com/124/1247865.jpg",
+      "tournaments": [
+        {
+          "img": "https://firebasestorage.googleapis.com/v0/b/battlefy-2f59d.appspot.com/o/user-imgs%2F55cc06c77825af4300a10557%2F1648164541909.jpg?alt=media&token=e0fa887b-9be9-478e-883f-7e71fd432059",
+          "title": "$350 USD ZOTAC CUP LoL 5v5  North America",
+          "date": "Sun Jan 15 2023",
+          "time": "8:00 AM EET",
+          "team_nums": 5,
+          "teams":250
+        },
+        {
+            "img": "https://cdn.battlefy.com/helix/images/games/league-of-legends/uploads/background-1591431492291.jpg",
+            "title": "$225 USD ZOTAC CUP League of Legends 5v5 LAS",
+            "date": "Sun Jan 15 2023",
+            "time": "8:00 AM EET",
+            "team_nums": 5,
+            "teams":250
+          },
+          
+          {
+            "img": "https://firebasestorage.googleapis.com/v0/b/battlefy-2f59d.appspot.com/o/user-imgs%2F56a40ae732b2f348007d5a2d%2F1661348178733.jpg?alt=media&token=6e033944-7018-4d9d-9071-d81eecd72101",
+            "title": "(LOL - \"EUW\" 1V1) G1-7 MEST PRO CUP",
+            "date": "Tue Jan 3 2023",
+            "time": "2:00 PM EET",
+            "team_nums": 5,
+            "teams":20
+          }
+      ]
+    },
+    {
+      "name": "VALORANT",
+      "img": "https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt3f072336e3f3ade4/63096d7be4a8c30e088e7720/Valorant_2022_E5A2_PlayVALORANT_ContentStackThumbnail_1200x625_MB01.png",
+      "bg_img": "https://wallpaperaccess.com/full/3037905.jpg",
+      "tournaments": [
+        {
+          "img": "https://firebasestorage.googleapis.com/v0/b/battlefy-2f59d.appspot.com/o/user-imgs%2F55cc06c77825af4300a10557%2F1648159509346.jpg?alt=media&token=e1ad61bc-0ca4-4d1f-a533-55b9f2fdfbe8",
+          "title": "$350 USD ZOTAC CUP Valorant 5v5 Asia",
+          "date": "Sun Jan 8 2023",
+          "time": "8:00 AM EET",
+          "team_nums": 5,
+          "teams":128
+        },
+        {
+          "img": "https://firebasestorage.googleapis.com/v0/b/battlefy-2f59d.appspot.com/o/user-imgs%2F5f01cddd28931c3d01be610d%2F1634043717634.gif?alt=media&token=41f87f40-7295-40b3-aae2-f4f9bd527f1b",
+          "title": "(VAL - \"LA\" 1V1) G1-7 MEST PRO CUP",
+          "date": "Wed Jan 4 2023",
+          "time": "7:00 PM EET",
+          "team_nums": 1,
+          "teams":1024
+        },
+        {
+          "img": "https://firebasestorage.googleapis.com/v0/b/battlefy-2f59d.appspot.com/o/user-imgs%2F5dda009563eaa90f62673696%2F1671231615465.png?alt=media&token=beb3a32f-bdf8-4db8-867a-a886599e51b3",
+          "title": "Outerworld Weekly Free Entry [PLATINUM CAPPED] VALORANT",
+          "date": "Thur Jan 5 2023",
+          "time": "7:00 PM EET",
+          "team_nums": 5,
+          "teams":8
+        }
+      ]
+    },
+    {
+      "name": "Hearthstone",
+      "img": "https://www.notebookcheck.net/fileadmin/Notebooks/Sonstiges/Games/hearthstone_game_image.jpg",
+      "bg_img": "https://wallpaperaccess.com/full/1376115.jpg",
+      "tournaments": [
+        {
+          "img": "https://firebasestorage.googleapis.com/v0/b/battlefy-2f59d.appspot.com/o/user-imgs%2F5f01cddd28931c3d01be610d%2F1632912634201.gif?alt=media&token=1f8d866d-dd16-4925-855a-3c12259a6c42",
+          "title": "(HS - \"AMERICA & SEA\" 1V1) G1-11 MEST PRO CUP",
+          "date": "tUE Jan 3 2023",
+          "time": "5:00 am EET",
+          "team_nums": 1,
+          "teams":1024
+        },
+        {
+          "img": "https://cdn.battlefy.com/helix/images/games/hearthstone/uploads/background-1591426016425.jpg",
+          "title": "Hearthstone | Ohayocon 2023",
+          "date": "Sun Jan 22 2023",
+          "time": "1:00 am EET",
+          "team_nums": 1,
+          "teams":22
+        }
+      ]
+    },
+    {
+      "name": "Splatoon 3",
+      "img": "https://asset.vg247.com/splatoon-3-logo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/splatoon-3-logo.jpg",
+      "bg_img": "https://assets-prd.ignimgs.com/2022/09/06/splatoon3-blogroll-1662508403889.jpg",
+      "tournaments": [
+        {
+          "img": "https://firebasestorage.googleapis.com/v0/b/battlefy-2f59d.appspot.com/o/user-imgs%2F57e1ed33b9182c200cab218c%2F1668212723062.png?alt=media&token=8066b00a-678f-463c-bd08-a048b880597b",
+          "title": "Splatoon 3 Splatsville Showdown - Event 2",
+          "date": "Sat Jan 14 2023",
+          "time": "2:00 PM EET",
+          "team_nums": 4,
+          "teams":59
+        },
+        {
+          "img": "https://firebasestorage.googleapis.com/v0/b/battlefy-2f59d.appspot.com/o/user-imgs%2F5ee1914918d4261c578cb500%2F1672072854667.png?alt=media&token=506ea459-2f4b-449a-87e9-998651241a67",
+          "title": "Megalodon Cup 8: Rainmaker Edition",
+          "date": "Sat Jan 7 2023",
+          "time": "2:00 PM EET",
+          "team_nums": 4,
+          "teams":60
+        }
+      ]
+    },
+
+
+    
+    {
+      "name": "Overwatch",
+      "img": "https://wallpapercave.com/wp/wp4124316.jpg",
+      "bg_img": "https://images2.alphacoders.com/710/710137.png",
+      "tournaments": [
+        {
+          "img": "https://firebasestorage.googleapis.com/v0/b/battlefy-2f59d.appspot.com/o/user-imgs%2F55cc06c77825af4300a10557%2F1648165001514.jpg?alt=media&token=e2df48da-b19f-427a-a6f0-11d0c7f7c621",
+          "title": "$350 USD - ZOTAC CUP Overwatch 2 5v5 Asia 10",
+          "date": "Sun Jan 15",
+          "time": "8:00 AM EET",
+          "team_nums": 5,
+          "teams":128
+        }
+      ]
+    },
+    {
+      "name": "Mobile Legends: Bang Bang",
+      "img": "https://images.cointelegraph.com/images/840_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kZjQxYWZkNjdjNWE2NzFiODJkYjY0MzQ3N2E0NGM3OS5KUEc=.jpg",
+      "bg_img": "https://img5.goodfon.com/wallpaper/nbig/b/95/mobile-legends-bang-bang-aamon-paren-magiia-statuia-zamok-fe.jpg",
+      "tournaments": [
+        {
+          "img": "https://firebasestorage.googleapis.com/v0/b/battlefy-2f59d.appspot.com/o/user-imgs%2F5f01cddd28931c3d01be610d%2F1671286217542.gif?alt=media&token=82c7a152-5963-4b02-9222-81fd567f1b64",
+          "title": "(MLBB- \"INDO\" 1V1) G1-11 MEST PRO CUP",
+          "date": "Wed, Jan 4 2023",
+          "time": "5:00 AM EET",
+          "team_nums": 1,
+          "teams":1024
+        }
+        
+      ]
+    },
+    {
+      "name": "Rocket League",
+      "img": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/09/08/shackstream-big-team-building-ep-31_feature.jpg",
+      "bg_img": "https://digwallpapers.com/wallpapers/full/2/1/2/92663-3840x2160-rocket-league-wallpaper-photo-desktop-4k.jpg",
+      "tournaments": [
+        {
+          "img": "https://firebasestorage.googleapis.com/v0/b/battlefy-2f59d.appspot.com/o/user-imgs%2F5f01cddd28931c3d01be610d%2F1649104544521.gif?alt=media&token=d770f25f-af81-4ff3-973e-a4eef00c335a",
+          "title": "(RL - \"Global - Cross-platform\" 1V1) G1-7 MEST PRO CUP",
+          "date": "Thur Jan 5 2023",
+          "time": "7:00 PM EET",
+          "team_nums": 1,
+          "teams":1024
+        },
+        {
+          "img": "https://firebasestorage.googleapis.com/v0/b/battlefy-2f59d.appspot.com/o/user-imgs%2F63279ca250477e51b2fd72e1%2F1672522541142.jpg?alt=media&token=f06a6f67-4da6-48a3-98e7-4f9516617fab",
+          "title": "Rocket fighters 3",
+          "date": "Sat Jan 7 2023",
+          "time": "3:00 AM EET",
+          "team_nums": 1,
+          "teams":50
+        },
+        {
+          "img": "https://firebasestorage.googleapis.com/v0/b/battlefy-2f59d.appspot.com/o/user-imgs%2F639662567c8b685542f5cff9%2F1670830314622.png?alt=media&token=9c571236-c228-4ec3-a379-3c052c154a87",
+          "title": "The BigMuscleBill Open 2023",
+          "date": "Sat Jan 7 2023",
+          "time": "3:00 AM EET",
+          "team_nums": 3,
+          "teams":16
+        }  
+      ]
+    },
+    
+    {
+      "name": "Pokémon Unite",
+      "img": "https://i.ytimg.com/vi/tijBa8zfozM/maxresdefault.jpg",
+      "bg_img": "https://wallpaperaccess.com/full/7062960.jpg",
+      "tournaments": [
+        {
+          "img": "https://cdn.battlefy.com/helix/images/games/pokémon-unite/uploads/background-1642189797259.png",
+          "title": "The 2023 Unite league!",
+          "date": "Sun Jan 22 2023",
+          "time": "12:00 AM EET",
+          "team_nums": 4,
+          "teams":250
+        }
+      ]
+    },
+    {
+      "name": "Fortnite",
+      "img": "https://cdn2.unrealengine.com/fortnite-jungle-hunter-quest-awards-1920x1080-94405a411203.jpg",
+      "bg_img": "https://images.hdqwalls.com/wallpapers/fortnite-1080p-xu.jpg",
+      "tournaments": [
+        {
+          "img": "https://cdn.battlefy.com/helix/images/games/fortnite/uploads/background-1599161237693.jpg",
+          "title": "1v1 Fortnite - Jan 14th - GCU Esports Spring 2023 High School Esports Series",
+          "date": "Sun Jan 15 2023",
+          "time": "3:00 AM EET",
+          "team_nums": 1,
+          "teams":32
+        }
+      ]
+    },
+    {
+      "name": "Clash Royale",
+      "img": "https://esportsgen.com/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-26-at-3.10.29-PM.jpeg",
+      "bg_img": "https://www.pockettactics.com/wp-content/sites/pockettactics/2022/09/clash-royale-wallpapers.jpg",
+      "tournaments": [
+        {
+          "img": "https://firebasestorage.googleapis.com/v0/b/battlefy-2f59d.appspot.com/o/user-imgs%2F5f01cddd28931c3d01be610d%2F1632907735541.gif?alt=media&token=5334ea61-5d8d-4ad2-a1ef-67628475d5c7",
+          "title": "(CR - \"Global\" 1V1) G1-23 MEST PRO CUP",
+          "date": "Tue Jan 3 2023",
+          "time": "5:00 PM EET",
+          "team_nums": 1,
+          "teams":1024
+        }
+      ]
+    }
+  ]
+}

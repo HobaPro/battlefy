@@ -1,0 +1,52 @@
+@use "../../assets/variables/colors" as *;
+
+
+.tournaments{
+  margin-left: 250px;
+  img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+
+    box-shadow: 1px 1px 31px 0px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 1px 1px 31px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 1px 1px 31px 0px rgba(0, 0, 0, 0.75);
+  }
+  .game_title{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding-top: 50px;
+    color:rgba(255, 166, 0, 0.705);
+  }
+  hr{
+    margin-top: 30px;
+  }
+  .find_tournament{
+    margin: 0;
+    padding-top: 50px;
+    margin-left:10%;
+    color:white;
+    font-weight: 300;
+  }
+  .tournament {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+  
+  }
+  @media screen and (max-width :900px) {
+    
+    margin-left: 0 !important;
+  
+    .tournament {
+  padding: 20px;
+    
+    }
+    }
+}
+
